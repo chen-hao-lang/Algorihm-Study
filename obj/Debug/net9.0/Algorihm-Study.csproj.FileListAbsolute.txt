@@ -1,0 +1,5 @@
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.AssemblyInfoInputs.cache
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.AssemblyInfo.cs
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.csproj.CoreCompileInputs.cache
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.sourcelink.json
