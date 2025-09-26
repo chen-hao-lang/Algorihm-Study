@@ -1,5 +1,3 @@
-using System.Numerics;
-
 namespace Alogorihm.Array
 {
     /// <summary>
