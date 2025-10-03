@@ -1,5 +1,8 @@
 namespace Alogorihm.Array
 {
+    /// <summary>
+    /// 水果成篮
+    /// </summary>
     class TotalFruit
     {
         public int Solve(int[] fruits)
