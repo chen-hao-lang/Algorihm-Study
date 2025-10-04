@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algorihm-Study")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ef1714da19a0d8dda50b6f82cc53207c97aa9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fb7197bb075c3ae1339df4369b2384431cb38a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algorihm-Study")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algorihm-Study")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

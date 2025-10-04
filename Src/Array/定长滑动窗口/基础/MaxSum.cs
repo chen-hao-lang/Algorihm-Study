@@ -1,4 +1,6 @@
 
+using System.Diagnostics.Contracts;
+
 namespace Alogorihm.Array
 {
     class MaxSum
