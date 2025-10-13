@@ -1,3 +1,5 @@
+using System.Security.AccessControl;
+
 namespace Alogorihm.Array
 {
     class MinArrivalsToDiscard
