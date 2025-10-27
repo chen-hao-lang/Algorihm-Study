@@ -35,5 +35,25 @@ namespace Alogorihm.Array
             // 右指针移动，如果是黑色块则加1
             return res;
         }
+
+        public int Solve2(string blocks, int k)
+        {
+            char[] c = blocks.ToCharArray();
+            int ans = int.MaxValue;
+            int changeNUm = 0;
+
+            for (int right = 0; right < blocks.Length; right++)
+            {
+                changeNUm += c[right] == 'W' ? 1 : 0;
+
+                int left = right - k + 1;
+                if (left < 0) continue;
+                
+                ans = System.Math.Min(ans, changeNUm);
+                changeNUm -= c[left] == 'W' ? 1 : 0;
+            }
+
+            return ans;
+        }
     }
 }
