@@ -2,6 +2,7 @@ namespace Alogorihm.Array
 {
     /// <summary>
     /// 按策略买卖股票的最佳时机
+    /// https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-using-strategy/?envType=problem-list-v2&envId=smKmHnN4
     /// </summary>
     class MaxProfit
     {
@@ -33,5 +34,7 @@ namespace Alogorihm.Array
             }
             return maximumProfit;
         }
+
+
     }
 }

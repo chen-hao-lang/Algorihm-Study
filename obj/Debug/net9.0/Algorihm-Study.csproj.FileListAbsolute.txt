@@ -3,3 +3,13 @@ F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.AssemblyInfoInputs.cache
 F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.AssemblyInfo.cs
 F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.csproj.CoreCompileInputs.cache
 F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.sourcelink.json
+F:\Algorihm-Study\bin\Debug\net9.0\Algorihm-Study.exe
+F:\Algorihm-Study\bin\Debug\net9.0\Algorihm-Study.deps.json
+F:\Algorihm-Study\bin\Debug\net9.0\Algorihm-Study.runtimeconfig.json
+F:\Algorihm-Study\bin\Debug\net9.0\Algorihm-Study.dll
+F:\Algorihm-Study\bin\Debug\net9.0\Algorihm-Study.pdb
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.dll
+F:\Algorihm-Study\obj\Debug\net9.0\refint\Algorihm-Study.dll
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.pdb
+F:\Algorihm-Study\obj\Debug\net9.0\Algorihm-Study.genruntimeconfig.cache
+F:\Algorihm-Study\obj\Debug\net9.0\ref\Algorihm-Study.dll

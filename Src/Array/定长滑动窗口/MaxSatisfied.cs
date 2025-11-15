@@ -1,10 +1,8 @@
-using System.Diagnostics.SymbolStore;
-using System.Runtime.InteropServices.Marshalling;
-
 namespace Alogorihm.Array
 {
     /// <summary>
     /// 爱生气的书店老板
+    /// https://leetcode.cn/problems/grumpy-bookstore-owner/submissions/677959334/?envType=problem-list-v2&envId=smKmHnN4
     /// </summary>
     class MaxSatisfied
     {

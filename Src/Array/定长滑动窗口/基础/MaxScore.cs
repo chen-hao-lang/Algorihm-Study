@@ -5,6 +5,7 @@ namespace Alogorihm.Array
 {
     /// <summary>
     /// 可获得的最大点数
+    /// https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/description/
     /// 将问题转换为：计算n-k的连续子数组和的最小值
     /// </summary>
     class MaxScore

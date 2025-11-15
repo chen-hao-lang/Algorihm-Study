@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorihm-Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|f:\\algorihm-study\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|f:\\algorihm-study\\src\\tolowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|solutionrelative:src\\tolowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|f:\\algorihm-study\\src\\array\\\u5B9A\u957F\u6ED1\u52A8\u7A97\u53E3\\maxsatisfied.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|solutionrelative:src\\array\\\u5B9A\u957F\u6ED1\u52A8\u7A97\u53E3\\maxsatisfied.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|f:\\algorihm-study\\src\\countgoodtriplets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3027D9C2-16C5-8A79-46C7-7B043B953F25}|Algorihm-Study.csproj|solutionrelative:src\\countgoodtriplets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToLowerCase.cs",
+              "DocumentMoniker": "F:\\Algorihm-Study\\Src\\ToLowerCase.cs",
+              "RelativeDocumentMoniker": "Src\\ToLowerCase.cs",
+              "ToolTip": "F:\\Algorihm-Study\\Src\\ToLowerCase.cs",
+              "RelativeToolTip": "Src\\ToLowerCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:07:26.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Algorihm-Study\\Src\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\Program.cs",
+              "ToolTip": "F:\\Algorihm-Study\\Src\\Program.cs",
+              "RelativeToolTip": "Src\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:07:00.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaxSatisfied.cs",
+              "DocumentMoniker": "F:\\Algorihm-Study\\Src\\Array\\\u5B9A\u957F\u6ED1\u52A8\u7A97\u53E3\\MaxSatisfied.cs",
+              "RelativeDocumentMoniker": "Src\\Array\\\u5B9A\u957F\u6ED1\u52A8\u7A97\u53E3\\MaxSatisfied.cs",
+              "ToolTip": "F:\\Algorihm-Study\\Src\\Array\\\u5B9A\u957F\u6ED1\u52A8\u7A97\u53E3\\MaxSatisfied.cs",
+              "RelativeToolTip": "Src\\Array\\\u5B9A\u957F\u6ED1\u52A8\u7A97\u53E3\\MaxSatisfied.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:01:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountGoodTriplets.cs",
+              "DocumentMoniker": "F:\\Algorihm-Study\\Src\\CountGoodTriplets.cs",
+              "RelativeDocumentMoniker": "Src\\CountGoodTriplets.cs",
+              "ToolTip": "F:\\Algorihm-Study\\Src\\CountGoodTriplets.cs",
+              "RelativeToolTip": "Src\\CountGoodTriplets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:59:41.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

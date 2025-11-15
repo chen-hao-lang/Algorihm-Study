@@ -1,5 +1,9 @@
 namespace Alogorihm.Array.双指针
 {
+    /// <summary>
+    /// 2563.统计公平数对的数目
+    /// https://leetcode.cn/problems/count-the-number-of-fair-pairs/
+    /// </summary>
     class CountFairPairs
     {
         public long Solve(int[] nums, int lower, int upper)
