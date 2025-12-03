@@ -34,7 +34,5 @@ namespace Alogorihm.Array
             }
             return maximumProfit;
         }
-
-
     }
 }
