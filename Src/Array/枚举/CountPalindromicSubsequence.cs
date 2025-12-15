@@ -17,7 +17,7 @@ namespace Alogorihm.Array.枚举
             }
 
             bool[] preHas = new bool[26];
-            bool[][] has = new bool[26][];
+            bool[][] has = new bool[26][];// 去重：has[m][c] 表示 (c,m,c) 是否已统计
             for (int i = 0; i < has.Length; i++)
             {
                 has[i] = new bool[26];

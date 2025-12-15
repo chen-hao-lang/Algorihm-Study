@@ -1,7 +1,3 @@
-using System.Diagnostics;
-using System.Security.Cryptography.X509Certificates;
-using Alogorihm.Array.枚举;
-
 class Program
 {
     static void Main(string[] args)
@@ -12,5 +8,24 @@ class Program
         // new List<int>(){1,2,3}};
 
         // Console.WriteLine(distance.Solve(array));
+    }
+}
+
+
+public class NumArray
+{
+    int[] preSumArray;
+    public NumArray(int[] nums)
+    {
+        preSumArray = new int[nums.Length + 1];
+        for (int i = 0; i < nums.Length; i++)
+        {
+            preSumArray[i + 1] = preSumArray[i] + nums[i];
+        }
+    }
+
+    public int SumRange(int left, int right)
+    {
+        return preSumArray[right + 1] - preSumArray[left];
     }
 }
